@@ -26,3 +26,6 @@ Here is how it looks like on display
 Wiring diagram:
 
 <img src="https://github.com/nmtz1/ESP32-TTGO-Weather-Station/blob/main/Images/Wiring%20esp32.jpg" width="200" height="200">
+
+PM sensor has lifespan of about 10k hours(laser inside) so in order to increase the lifespan I have to implement sleep and wake up to take reading once every 3-5 minutes with sensor warming time of 30s. Not sure how to do it atm but will figure it out. :)
+Once all sensors are in place and configured I will create a 3d printed shell to house it all.
