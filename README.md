@@ -22,5 +22,5 @@ That is the file in repository called SDS011.ino
 Here is how it looks like on display
 
 <img src="https://github.com/nmtz1/ESP32-TTGO-Weather-Station/blob/main/Images/SDS011%20ESP32%20PM_data.jpg" width="100" height="100">
-![alt text](https://github.com/nmtz1/ESP32-TTGO-Weather-Station/blob/main/Images/SDS011%20ESP32%20PM_data.jpg)
+
 
