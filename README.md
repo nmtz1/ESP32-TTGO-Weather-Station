@@ -20,5 +20,6 @@ As I said my first step was to put together esp32 with 1.14 inch display I alrea
 That is the file in repository called SDS011.ino
 
 Here is how it looks like on display
+
 ![alt text](https://github.com/nmtz1/ESP32-TTGO-Weather-Station/blob/main/Images/SDS011%20ESP32%20PM_data.jpg)
 
