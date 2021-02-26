@@ -23,4 +23,6 @@ Here is how it looks like on display
 
 <img src="https://github.com/nmtz1/ESP32-TTGO-Weather-Station/blob/main/Images/SDS011%20ESP32%20PM_data.jpg" width="200" height="100">
 
+Wiring diagram:
 
+<img src="https://github.com/nmtz1/ESP32-TTGO-Weather-Station/blob/main/Images/Wiring%20esp32.jpg" width="200" height="200">
